@@ -1,0 +1,29 @@
+2023-02-24 19:00:15 DEBUG Main:11 - Application starting
+2023-02-24 19:00:15 DEBUG Main:13 - Application finished
+2023-02-24 19:00:15 DEBUG Main:11 - Application starting
+2023-02-24 19:00:15 DEBUG Main:13 - Application finished
+2023-02-24 19:00:15 DEBUG Main:11 - Application starting
+2023-02-24 19:00:15 DEBUG Main:13 - Application finished
+2023-02-24 19:00:34 DEBUG Main:11 - Application starting
+2023-02-24 19:00:34 DEBUG Main:13 - Application finished
+2023-02-24 19:00:34 DEBUG Main:11 - Application starting
+2023-02-24 19:00:34 DEBUG Main:13 - Application finished
+2023-02-24 19:00:34 DEBUG Main:11 - Application starting
+2023-02-24 19:00:34 DEBUG Main:13 - Application finished
+2023-02-24 21:15:14 INFO  Database:26 - Connection created
+2023-02-24 21:23:03 INFO  Database:26 - Connection created
+2023-02-24 21:23:03 INFO  Database:26 - Connection created
+2023-02-24 21:23:58 INFO  Database:26 - Connection created
+2023-02-24 21:23:58 INFO  Database:26 - Connection created
+2023-02-24 21:28:11 INFO  Database:26 - Connection created
+2023-02-24 21:28:11 INFO  ClientService:26 - Create client successful
+2023-02-24 21:28:11 INFO  Database:26 - Connection created
+2023-02-24 21:42:32 INFO  Database:26 - Connection created
+2023-02-24 21:42:32 INFO  ClientService:62 - Update client name = MAKS BBN where client id = 6
+2023-02-24 21:45:13 INFO  Database:26 - Connection created
+2023-02-24 21:45:13 INFO  ClientService:76 - Delete client with client id = 8
+2023-02-24 21:49:12 INFO  Database:26 - Connection created
+2023-02-24 21:49:37 INFO  Database:26 - Connection created
+2023-02-24 21:49:52 INFO  Database:26 - Connection created
+2023-02-24 21:52:03 INFO  Database:26 - Connection created
+2023-02-24 21:52:19 INFO  Database:26 - Connection created

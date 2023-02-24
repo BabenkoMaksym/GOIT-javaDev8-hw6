@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DatabaseBrowserManager">
@@ -13,7 +13,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="a4377d2d-982a-499c-8335-394b5882eef5">
-      <console name="HomeWork6" type="STANDARD" schema="goit_java8_hw6" session="Main" />
+      <console name="HomeWork6" type="STANDARD" schema="goit_java8_hw6" session="Main"><![CDATA[update "public".client]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseEditorStateManager">
